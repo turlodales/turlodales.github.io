@@ -1,0 +1,16 @@
+Origin: Turlodales
+Label: Turlodales
+Origin: Turlodales 
+Version: 1.0
+Codename: Turlodales
+Architecture: iphoneos-arm
+Components: main
+Description: Source of the Tweak for your IOS Device!
+
+MD5sum:
+
+ebe7dda609e4dfb2acfa60450cf0876f  
+44436	Packages
+
+02b8e3fcc87e94dad63892016a0f9637  
+10957	Packages.bz2
