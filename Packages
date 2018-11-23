@@ -9,7 +9,7 @@ Section: Tweaks
 Depends: mobilesubstrate, preferenceloader
 Size:23058	
 MD5:3545b7bf6cba5053d7deb451ece2fd25  
-Filename: ./debs/com.Turlodales.apppercent_2.0.0_iphoneos-arm.deb
+Filename: ./debs/com.turlodales.apppercent_2.0.0_iphoneos-arm.deb
 SHA1:9737eb8f514098703bca4d57643f388deb0a8b46  
 SHA256:a230653dfc9880ccd718c0218a2b85bb9976fbac3c9b347ea5ad79cd15d1f559  
 Icon: file:///Library/PreferenceBundles/AppPercent.bundle/AppPercent@2x.png
@@ -26,7 +26,7 @@ Section: Applications (64bit)
 Depends: firmware (>= 11), unzip, mobilesubstrate
 Size:1033982	
 MD5:45a12bf7bf4fa3aec6f31958bd532870  
-Filename: ./debs/com.Turlodales.bytafont3ios11_3.5_iphoneos-arm.deb
+Filename: ./debs/com.turlodales.bytafont3ios11_3.5_iphoneos-arm.deb
 SHA1:464dff73a0e07766a2a29d82c136b662a371d772  
 SHA256:c7f1c60937ee2ec80b40030bd4066831b2c7eace1f143c38611f59d020b6e999  
 
@@ -42,6 +42,6 @@ Section: Applications (32bit)
 Depends: firmware (>= 10.3), unzip, mobilesubstrate, firmware (<= 11)
 Size:2024092	
 MD5:dcd050d65161af10ddacbbe33f5bbb3c  
-Filename: ./debs/com.Turlodales.bytafont3ios103_3.1.5b_iphoneos-arm.deb
+Filename: ./debs/com.turlodales.bytafont3ios103_3.1.5b_iphoneos-arm.deb
 SHA1:e4cd207b5e0b68fa3388a739d693cc7d399ad620  
 SHA256:67cac7ec91b12044f45a80c5ae0b51db72cb5aec0753ffb605b348e7ff2e72a2  
