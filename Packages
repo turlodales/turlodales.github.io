@@ -1,4 +1,4 @@
-Package: com.Turlodales.apppercent
+Package: com.turlodales.apppercent
 Name: App Percent
 Version: 2.0.0
 Architecture: iphoneos-arm
@@ -14,7 +14,7 @@ SHA1:9737eb8f514098703bca4d57643f388deb0a8b46
 SHA256:a230653dfc9880ccd718c0218a2b85bb9976fbac3c9b347ea5ad79cd15d1f559  
 Icon: file:///Library/PreferenceBundles/AppPercent.bundle/AppPercent@2x.png
 
-Package: com.Turlodales.bytafont3ios11
+Package: com.turlodales.bytafont3ios11
 Name: BytaFont 3 (iOS 11)
 Version: 3.5
 Architecture: iphoneos-arm
@@ -30,7 +30,7 @@ Filename: ./debs/com.turlodales.bytafont3ios11_3.5_iphoneos-arm.deb
 SHA1:464dff73a0e07766a2a29d82c136b662a371d772  
 SHA256:c7f1c60937ee2ec80b40030bd4066831b2c7eace1f143c38611f59d020b6e999  
 
-Package: com.Turlodales.bytafont3ios103
+Package: com.turlodales.bytafont3ios103
 Name: BytaFont 3 (iOS 10.3)
 Version: 3.1.5b
 Architecture: iphoneos-arm
