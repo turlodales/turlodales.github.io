@@ -35,8 +35,8 @@ Name: Weatherboard 2 (iOS 8.3 - 9.3.5)
 Version: 1.2.0-1
 Architecture: iphoneos-arm
 Description: Lock & home screen tweak.
-Depiction: https://turlodales.github.io/description.html?id=com.turlodales.bytafont3ios103
-Author: BytaFont.com <info@bytafont.com>
+Depiction: https://turlodales.github.io/description.html?id=com.turlodales.weatherboard2_1.2.1_iphoneos-arm.deb
+Author: B
 Maintainer: Turlodales <turlodales@gmail.com>
 Section: Applications (32/64 bit)
 Depends: 
