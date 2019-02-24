@@ -36,11 +36,11 @@ Version: 1.2.0-1
 Architecture: iphoneos-arm
 Description: Lock & home screen tweak.
 Depiction: https://turlodales.github.io/description.html?id=com.turlodales.weatherboard2_1.2.1_iphoneos-arm.deb
-Author: B
+Author:
 Maintainer: Turlodales <turlodales@gmail.com>
 Section: Applications (32/64 bit)
 Depends: 
-Size:	1768708
+Size:1768708
 MD5: 
 Filename: ./debs/com.turlodales.weatherboard2_1.2.1_iphoneos-arm.deb
 SHA1: 
