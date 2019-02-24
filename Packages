@@ -29,3 +29,19 @@ MD5:dcd050d65161af10ddacbbe33f5bbb3c
 Filename: ./debs/com.turlodales.bytafont3ios103_3.1.5b_iphoneos-arm.deb
 SHA1:e4cd207b5e0b68fa3388a739d693cc7d399ad620  
 SHA256:67cac7ec91b12044f45a80c5ae0b51db72cb5aec0753ffb605b348e7ff2e72a2  
+
+Package: com.turlodales.weatherboard2_1.2.1_iphoneos-arm.deb
+Name: Weatherboard 2 (iOS 8.3 - 9.3.5)
+Version: 1.2.0-1
+Architecture: iphoneos-arm
+Description: Lock & home screen tweak.
+Depiction: https://turlodales.github.io/description.html?id=com.turlodales.bytafont3ios103
+Author: BytaFont.com <info@bytafont.com>
+Maintainer: Turlodales <turlodales@gmail.com>
+Section: Applications (32/64 bit)
+Depends: 
+Size:	
+MD5: 
+Filename: ./debs/com.turlodales.weatherboard2_1.2.1_iphoneos-arm.deb
+SHA1: 
+SHA256:
