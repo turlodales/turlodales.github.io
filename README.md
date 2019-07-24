@@ -1,6 +1,6 @@
 # turlodales.github.io
 
-Turlodale Cydia Repo
+Turlodales Cydia Repo
 
 im trying to make my own Cydia Repo for the tweaks i have got reworking
 
